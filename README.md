@@ -7,4 +7,4 @@ My tips, tricks and notes
 [Git](./git.md)
 [VSCode](./vscode.md)
 [Tools](./tools.md)
-[Tailwind Setuup](./tailwind.css)
+[Tailwind Setup](./tailwind.md)
