@@ -8,3 +8,9 @@ My tips, tricks and notes
 [VSCode](./vscode.md)
 [Tools](./tools.md)
 [Tailwind Setup](./tailwind.md)
+
+
+
+> Credits :
+
+- Table of Contents generator : https://luciopaiva.com/markdown-toc/

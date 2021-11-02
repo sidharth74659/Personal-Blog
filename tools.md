@@ -1,16 +1,14 @@
-### Tools
-
-#### color
+#### generators
 
 - [CSS filter generator](https://codepen.io/sosuke/full/Pjoqqp) to turn images/svg color to a target color
 - [Tint & Shade Generator](https://maketintsandshades.com/)
 
 
-#### fonts
+#### icons
 
 [`svg`](./assets/svg/): [feather icons](https://feathericons.com/)
 
-### Colors
+### articles
 
 | Domain       | Link                                                                                                                                                                                                                                                                                                                                |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,3 +1,7 @@
+# Table of contents
+
+- [Logging into Github from Terminal using Personal Access Tokens](#logging-into-github-from-terminal-using-personal-access-tokens)
+- [Change git repository name locally](#change-git-repository-name-locally)
 
 #### Logging into Github from Terminal using Personal Access Tokens
 
@@ -14,7 +18,7 @@
   ```
 
 
-### Change git repository name locally
+#### Change git repository name locally
 - [change git repository name locally](https://www.codepoc.io/blog/git/5617/change-git-repository-name-locally)
 
   ```
