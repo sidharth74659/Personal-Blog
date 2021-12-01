@@ -62,5 +62,6 @@
   
 
   javascript:void(function () {var docWidth = document.documentElement.offsetWidth;[].forEach.call(document.querySelectorAll(‘*’), function (el) {if (el.offsetWidth%3EdocWidth) el.style.border = “1px solid red”})})();
+  );
   ```
-);
+
