@@ -10,15 +10,24 @@
 - involve your manager to rank your priorities
 - Create focus blocks that no one can book over
 
+From PRPL:
+- Escalate things when things are taking time
+- Avoid saying anything related to code, managers will pinpoint them
+- 
+
 ---
 
 **To Read:**
 - https://pathtostaff.substack.com/p/act-like-a-senior-engineer-part-one
+- https://blogs.newardassociates.com/tags/management.html
+- https://nordicapis.com/making-fast-apis-lessons-learned-from-40-years-of-sql/
+
 
 ---
 
 Tools:
 - Build local-first apps directly on Postgres: [https://github.com/electric-sql/pglite](https://github.com/electric-sql/pglite "https://github.com/electric-sql/pglite")
+- [VSCode] https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors
 
 ---
 
@@ -26,6 +35,8 @@ Tools:
 - OpenAPI specification: [https://www.speakeasy.com/openapi](https://www.speakeasy.com/openapi "https://www.speakeasy.com/openapi")
 - Balancing Multiple Responsibilities Effectively and How to Say No: ⁠[https://substack.com/home/post/p-147346238](https://substack.com/home/post/p-147346238 "https://substack.com/home/post/p-147346238")
 
+**Sep 2nd:**
+- https://blogs.newardassociates.com/blog/2024/management-antipatterns.html
 
 ---
 ---
