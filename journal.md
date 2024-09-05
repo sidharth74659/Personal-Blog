@@ -28,6 +28,8 @@ From PRPL:
 Tools:
 - Build local-first apps directly on Postgres: [https://github.com/electric-sql/pglite](https://github.com/electric-sql/pglite "https://github.com/electric-sql/pglite")
 - [VSCode] https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors
+- [fuite](https://github.com/nolanlawson/fuite) is a CLI tool for finding memory leaks in web apps.
+
 
 ---
 
