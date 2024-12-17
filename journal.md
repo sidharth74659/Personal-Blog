@@ -27,11 +27,15 @@ Blogs:
 - Balancing Multiple Responsibilities Effectively and How to Say No: ⁠[https://substack.com/home/post/p-147346238](https://substack.com/home/post/p-147346238)
 - https://marcgg.com/blog/2020/04/06/engineering-team-meeting-ideas/
 	- https://marcgg.com/manager-readme/
+- https://terriblesoftware.org/
+	- https://terriblesoftware.org/2024/12/04/the-6-mistakes-youre-going-to-make-as-a-new-manager/
+	 > Your role should be less about directing every action and more about providing guidance.
 
 Authors:
 - https://substack.com/@sidwyn
 - https://blogs.newardassociates.com/index.html
 - https://marcgg.com/blog/
+- 
 
 Fonts:
 - https://fonts.google.com/specimen/Figtree
@@ -62,6 +66,7 @@ Newsletters:
 	- [ ] https://csswizardry.com/2024/12/a-layered-approach-to-speculation-rules/
 Security:
 - [ ] https://www.michalspacek.com/check-tls-certificate-revocation-with-ssl-labs-crt.sh-openssl
+- [ ] https://openwebdocs.org/content/posts/swag-at-tpac-anaheim/
 
 ---
 
