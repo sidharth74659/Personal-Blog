@@ -44,6 +44,13 @@ Fonts:
 Newsletters:
 - HackerNoon
 - ByteByteGo
+- https://weeklyfoo.com/
+
+---
+
+
+Authors:
+- https://alexwlchan.net/til/
 
 ---
 ---
@@ -59,14 +66,29 @@ Newsletters:
 - [ ] https://oxylabs.io/blog/javascript-read-json-file
 - [ ] https://blog.sentry.io/how-to-make-your-web-page-faster-before-it-even-loads/
 - [ ] https://vscode.email/archive
+- [ ] https://frontendmasters.com/guides/front-end-handbook/2024/
 - [ ] Testing:
 	- [ ] https://circleci.com/blog/api-performance-testing-with-k6/
 	- [ ] https://github.com/grafana/xk6-dashboard?tab=readme-ov-file
 - [ ] CSS:
 	- [ ] https://csswizardry.com/2024/12/a-layered-approach-to-speculation-rules/
+	- [ ] https://web.dev/articles/5-css-snippets-every-front-end-developer-should-know-in-2024
+	- [ ] https://moderncss.dev/12-modern-css-one-line-upgrades/
 Security:
 - [ ] https://www.michalspacek.com/check-tls-certificate-revocation-with-ssl-labs-crt.sh-openssl
 - [ ] https://openwebdocs.org/content/posts/swag-at-tpac-anaheim/
+- [ ] https://bishopfox.com/blog/json-interoperability-vulnerabilities
+	- [ ] https://github.com/BishopFox/json-interop-vuln-labs/
+- [ ] https://portswigger.net/web-security/request-smuggling
+
+API Documentation:
+- [ ] https://docs.github.com/en/rest/actions/artifacts?apiVersion=2022-11-28
+- [ ] OpenAPI specification: [https://www.speakeasy.com/openapi](https://www.speakeasy.com/openapi "https://www.speakeasy.com/openapi")
+
+
+Authors:
+- Ahmad Shadeed: https://ishadeed.com/articles/
+
 
 ---
 
@@ -87,21 +109,28 @@ Security:
 
 To Visit:
 - [CSS] https://cssadventcalendar.dev/
+	- https://12daysofweb.dev/
 - [HTML] https://www.htmhell.dev/adventcalendar/
 - [TS] https://www.adventofts.com/
+- [Node] https://github.com/goldbergyoni/nodebestpractices#readme
 
 ---
 
 To Learn(courses):
 - https://leanwebclub.com/
+- https://whatpwacando.today/
 
 ---
 
 To Check:
 
-Collection of Tools:
-- https://webcurate.co/
-	- https://webcurate.co/openalternative
+- Collection of Tools:
+	- https://webcurate.co/
+		- https://webcurate.co/openalternative
+- Deploy Node.js applications: https://render.com/docs/deploy-node-express-app
+- https://bg.addy.ie/: free background image remover --by @Addy Osmani
+- https://squoosh.app/: ultimate image optimizer
+- https://writewithharper.com/: grammar checker
 
 **Tools:**
 - Build local-first apps directly on Postgres: [https://github.com/electric-sql/pglite](https://github.com/electric-sql/pglite "https://github.com/electric-sql/pglite")
@@ -119,8 +148,23 @@ Collection of Tools:
 - [**Manifest**](https://manifest.build/): A complete self-hosted backend-as-a-service that fits in a single YAML file, with a SQLite database, admin panel, REST API, and JavaScript SDK.
 - https://awesome-docs.gallery/: A crowdsourced, open-source gallery for high-quality dev docs
 
+
+Open Source:
+- UI Components:
+	- https://uiverse.io/elements
+
+Interesting:
+- https://www.visioncortex.org/vtracer: An Online Tool to Convert Raster Images Into Vector Graphics
+
 **Subscriptions:**
 - [x] https://www.daytona.io/dotfiles
+- 
+
+Obsidian Plugins: 
+- https://writewithharper.com/obsidian/
+
+Windows Tools:
+- https://www.flowlauncher.com/: alternative to spotlight & open-source
 - 
 
 
@@ -142,6 +186,11 @@ To Build(side-projects):
 - can extend to enterprise/company/project specific
 - and consider having a cli-tool that generates the components with specific requirements
 
+3. Site like: [Squire.ai](https://www.squire.ai/)
+- to be able to work with local models(quantified) or premium.
+- Use `.rules` files to define code-quality standards at company, org, or project levels.
+- Focus on analyzing and addressing only code changes or differences.
+
 ---
 
 **Sep 1st:**
@@ -162,6 +211,11 @@ To Build(side-projects):
 - [Don’t make users read your docs](https://blancas.io/blog/users-and-docs/)
 	- [Useful error messages](https://blancas.io/blog/users-and-docs/#:~:text=Useful%20error%20messages)
 - https://zarar.dev/good-software-development-habits/
+
+**Dec 19th:**
+- https://muffinman.io/blog/css-fix-to-prevent-orphan-icons
+- https://gomakethings.com/the-power-of-the-reduced-test-case/
+
 
 ---
 ---
