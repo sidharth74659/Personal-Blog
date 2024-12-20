@@ -104,6 +104,7 @@ Authors:
 	- [ ] [The Secret Mechanisms of CSS with JOSH W COMEAU — SmashingConf New York 2024](https://www.youtube.com/@SmashingMagazineVideos)
 - Talks:
 	- [ ] [JSNation talk](https://www.youtube.com/watch?v=SpKtpW9TGF0)
+- [ ] https://www.learnwithjason.dev/episodes/
 
 ---
 
