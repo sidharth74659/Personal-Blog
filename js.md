@@ -59,8 +59,6 @@
   // Ooh! Or you could modify it to outline the offenders in red. Best of both worlds :) (found in comments)
 
   ```js
-  
-
   javascript:void(function () {var docWidth = document.documentElement.offsetWidth;[].forEach.call(document.querySelectorAll(‘*’), function (el) {if (el.offsetWidth%3EdocWidth) el.style.border = “1px solid red”})})();
   );
   ```

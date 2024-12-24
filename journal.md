@@ -120,6 +120,7 @@ To Visit:
 To Learn(courses):
 - https://leanwebclub.com/
 - https://whatpwacando.today/
+- https://learn.nextwork.org/projects/aws-account-setup
 
 ---
 
