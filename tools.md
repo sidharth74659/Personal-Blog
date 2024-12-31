@@ -1,12 +1,9 @@
 #### generators
-
 - [CSS filter generator](https://codepen.io/sosuke/full/Pjoqqp) to turn images/svg color to a target color
 - [Tint & Shade Generator](https://maketintsandshades.com/)
 
-
 #### icons
-
-[`svg`](./assets/svg/): [feather icons](https://feathericons.com/)
+- [`svg`](./assets/svg/): [feather icons](https://feathericons.com/)
 
 ### articles
 

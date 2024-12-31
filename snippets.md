@@ -1,6 +1,9 @@
 
-1. [exporting-copilot-chat-sessions-in-vscode-as-md](./snippets/exporting-copilot-chat-sessions-in-vscode-as-md.md)
-2. [export-twitter-bookmarks](./snippets/export-twitter-bookmarks.md)
+1. [js-snippets](./js)
+2. [css-snippets](css.md)
+3. [git-snippets](./git.md)
+4. [exporting-copilot-chat-sessions-in-vscode-as-md](./snippets/exporting-copilot-chat-sessions-in-vscode-as-md.md)
+5. [export-twitter-bookmarks](./snippets/export-twitter-bookmarks.md)
 
 
 ---
@@ -23,25 +26,6 @@ kill -9 <PID>
 ```
 
 Or, Change the Port in Your Express.js app.
-
-
----
-
-**Adding a remote repo for local project:**
-
-```sh
-git remote add origin https://srikanthv2@bitbucket.org/mobilesupplychain24c/poc.git
-
-git remote set-url origin https://<username>:<token>@bitbucket.org/mobilesupplychain24c/poc.git
-# ex:
-git remote set-url origin git@bitbucket.org:mobilesupplychain24c/poc.git
-
-   git checkout -b test
-   git add .
-   git commit -m "Initial commit on test branch"
-   git push --set-upstream origin test
-```
-
 
 ---
 

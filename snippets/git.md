@@ -17,7 +17,7 @@
   git remote add origin https://[USERNAME]:[NEW TOKEN]@github.com/[USERNAME]/[REPO].git
   ```
 
-
+---
 #### Change git repository name locally
 - [change git repository name locally](https://www.codepoc.io/blog/git/5617/change-git-repository-name-locally)
 
@@ -28,3 +28,22 @@
   git remote -v (double check, it will show new git url)
   git push (do whatever you want.)
   ```
+
+---
+
+
+**Adding a remote repo for local project:**
+
+```sh
+git remote add origin https://srikanthv2@bitbucket.org/mobilesupplychain24c/poc.git
+
+git remote set-url origin https://<username>:<token>@bitbucket.org/mobilesupplychain24c/poc.git
+# ex:
+git remote set-url origin git@bitbucket.org:mobilesupplychain24c/poc.git
+
+   git checkout -b test
+   git add .
+   git commit -m "Initial commit on test branch"
+   git push --set-upstream origin test
+```
+
