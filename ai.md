@@ -10,6 +10,7 @@
 
 **Prompt Engineering:**
 - [ ] https://www.uber.com/en-IN/blog/introducing-the-prompt-engineering-toolkit/?=&aid=recbxr9IRM7UNGV8S
+- [ ] https://docs.lovable.dev/tips-tricks/prompting
 - [ ] (video) [AI prompt engineering: A deep dive](https://www.youtube.com/watch?v=T9aRN5JkmL8)
 - [ ] Sites:
 	- [ ] Prompt Tools: https://webcurate.co/c/prompt
@@ -115,6 +116,9 @@ write a mail including:
 - A strong call-to-action
 
 ```
+
+4. Suggestions:
+- For complex tasks, encourage the AI to process the problem step by step before providing a solution. [Reference](https://docs.lovable.dev/tips-tricks/prompting#implementing-chain-of-thought-cot-prompts)
 
 
 Additions:

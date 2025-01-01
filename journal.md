@@ -188,7 +188,7 @@ To Build(side-projects):
 - can extend to enterprise/company/project specific
 - and consider having a cli-tool that generates the components with specific requirements
 
-3. Site like: [Squire.ai](https://www.squire.ai/)
+3. ~~Site like: [Squire.ai](https://www.squire.ai/)~~
 - to be able to work with local models(quantified) or premium.
 - Use `.rules` files to define code-quality standards at company, org, or project levels.
 - Focus on analyzing and addressing only code changes or differences.
