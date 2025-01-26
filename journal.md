@@ -74,6 +74,10 @@ Authors:
 	- [ ] https://csswizardry.com/2024/12/a-layered-approach-to-speculation-rules/
 	- [ ] https://web.dev/articles/5-css-snippets-every-front-end-developer-should-know-in-2024
 	- [ ] https://moderncss.dev/12-modern-css-one-line-upgrades/
+- [ ] Node.js
+	- [ ] https://dev.to/gkampitakis/tracking-down-high-memory-usage-in-nodejs-2lbn?
+- [ ] Angular:
+	- [ ] https://www.tutscoder.com/post/creating%20self-signed%20certificates%20for%20local%20development:%20a%20complete%20guide%20to%20mkcert
 Security:
 - [ ] https://www.michalspacek.com/check-tls-certificate-revocation-with-ssl-labs-crt.sh-openssl
 - [ ] https://openwebdocs.org/content/posts/swag-at-tpac-anaheim/
@@ -114,6 +118,7 @@ To Visit:
 - [HTML] https://www.htmhell.dev/adventcalendar/
 - [TS] https://www.adventofts.com/
 - [Node] https://github.com/goldbergyoni/nodebestpractices#readme
+- [Angular] https://angularchristmascalendar.com/
 
 ---
 
