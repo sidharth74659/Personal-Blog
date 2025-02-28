@@ -1,5 +1,10 @@
 For `.cursor`, `.copilot`:
 
+- https://cursorlist.com/
+- https://cursor.directory/
+- https://github.com/PatrickJS/awesome-cursorrules
+- 
+
 Common Points:
 - Proper validation
 

@@ -35,6 +35,8 @@ Authors:
 - https://substack.com/@sidwyn
 - https://blogs.newardassociates.com/index.html
 - https://marcgg.com/blog/
+- https://www.neilmacy.co.uk/blog
+- https://www.trevorlasn.com/
 - 
 
 Fonts:
@@ -67,15 +69,25 @@ Authors:
 - [ ] https://blog.sentry.io/how-to-make-your-web-page-faster-before-it-even-loads/
 - [ ] https://vscode.email/archive
 - [ ] https://frontendmasters.com/guides/front-end-handbook/2024/
+- [ ] DevTools:
+	- [ ] https://devtoolstips.org/guides/en/understand-devtools/
+	- [ ] https://www.debugbear.com/blog/use-chrome-devtools
 - [ ] Testing:
 	- [ ] https://circleci.com/blog/api-performance-testing-with-k6/
 	- [ ] https://github.com/grafana/xk6-dashboard?tab=readme-ov-file
+- [ ] HTML:
+	- [ ] https://www.trevorlasn.com/blog/native-popover-with-html
 - [ ] CSS:
 	- [ ] https://csswizardry.com/2024/12/a-layered-approach-to-speculation-rules/
 	- [ ] https://web.dev/articles/5-css-snippets-every-front-end-developer-should-know-in-2024
 	- [ ] https://moderncss.dev/12-modern-css-one-line-upgrades/
+	- [ ] https://www.oddbird.net/2025/02/12/fluid-type
+- [ ] JS:
+	- [ ] https://www.trevorlasn.com/blog/common-causes-of-memory-leaks-in-javascript
 - [ ] Node.js
 	- [ ] https://dev.to/gkampitakis/tracking-down-high-memory-usage-in-nodejs-2lbn?
+	- [ ] https://www.trevorlasn.com/blog/node-async-local-storage
+		- [ ] https://www.trevorlasn.com/blog/node-async-local-storage#:~:text=When%20to%20Use%20AsyncLocalStorage
 - [ ] Angular:
 	- [ ] https://www.tutscoder.com/post/creating%20self-signed%20certificates%20for%20local%20development:%20a%20complete%20guide%20to%20mkcert
 Security:
@@ -92,6 +104,7 @@ API Documentation:
 
 Authors:
 - Ahmad Shadeed: https://ishadeed.com/articles/
+- https://www.oddbird.net/tags/
 
 
 ---
@@ -119,6 +132,8 @@ To Visit:
 - [TS] https://www.adventofts.com/
 - [Node] https://github.com/goldbergyoni/nodebestpractices#readme
 - [Angular] https://angularchristmascalendar.com/
+- https://github.com/web-platform-tests/interop/blob/main/2025/README.md
+	- https://wpt.fyi/interop-2025
 
 ---
 
@@ -223,6 +238,11 @@ To Build(side-projects):
 - https://muffinman.io/blog/css-fix-to-prevent-orphan-icons
 - https://gomakethings.com/the-power-of-the-reduced-test-case/
 
+
+**Mar 1st**:
+- https://mitchellh.com/writing/building-large-technical-projects
+	- I've learned that when I break down my large tasks in chunks that result in seeing tangible forward progress, I tend to finish my work and retain my excitement throughout the project.
+	- [Packaging it Up](https://mitchellh.com/writing/building-large-technical-projects?=&aid=rechtA0HVUVojwWtM#:~:text=working%20on%20it.-,Packaging%20it%20Up,-Decompose%20a%20large)
 
 ---
 ---

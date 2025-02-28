@@ -1,3 +1,12 @@
+#### Dev Tools
+- https://addyosmani.com/tools/
+	- Video Compressor: https://compress.addy.ie/
+	- Background remover: https://bg.addy.ie/
+	- record and transcribe: https://say.addy.ie/
+	- Enhance: https://ojoy.netlify.app/
+- https://jam.dev/utilities
+- https://getquick.link/ (drop-in solution for sites to prefetch links based on what is in the user's viewport)
+
 #### generators
 - [CSS filter generator](https://codepen.io/sosuke/full/Pjoqqp) to turn images/svg color to a target color
 - [Tint & Shade Generator](https://maketintsandshades.com/)
