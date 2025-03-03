@@ -23,6 +23,14 @@ From PRPL:
 - Avoid saying anything related to code, managers will pinpoint them
 - 
 
+My Role & Responsibilities:
+- Write **Jira tickets**
+- Write **meeting minutes**
+- Build **things**
+- **Roll up status** to leadership
+- Maintain and **groom backlog**
+- **Manage meetings** and calendar
+
 Blogs:
 - Balancing Multiple Responsibilities Effectively and How to Say No: ⁠[https://substack.com/home/post/p-147346238](https://substack.com/home/post/p-147346238)
 - https://marcgg.com/blog/2020/04/06/engineering-team-meeting-ideas/
@@ -37,7 +45,9 @@ Authors:
 - https://marcgg.com/blog/
 - https://www.neilmacy.co.uk/blog
 - https://www.trevorlasn.com/
-- 
+- https://www.seangoedecke.com/
+- https://eieio.games/blog/
+- (aws) https://blog.guilleojeda.com/
 
 Fonts:
 - https://fonts.google.com/specimen/Figtree
@@ -82,6 +92,9 @@ Authors:
 	- [ ] https://web.dev/articles/5-css-snippets-every-front-end-developer-should-know-in-2024
 	- [ ] https://moderncss.dev/12-modern-css-one-line-upgrades/
 	- [ ] https://www.oddbird.net/2025/02/12/fluid-type
+	- [ ] https://www.vigilant.run/blog/designing-backgrounds-with-llms-and-react
+	- [ ] https://www.oddbird.net/2025/02/12/fluid-type/
+	- [ ] https://www.joshwcomeau.com/blog/whimsical-animations
 - [ ] JS:
 	- [ ] https://www.trevorlasn.com/blog/common-causes-of-memory-leaks-in-javascript
 - [ ] Node.js
@@ -90,6 +103,8 @@ Authors:
 		- [ ] https://www.trevorlasn.com/blog/node-async-local-storage#:~:text=When%20to%20Use%20AsyncLocalStorage
 - [ ] Angular:
 	- [ ] https://www.tutscoder.com/post/creating%20self-signed%20certificates%20for%20local%20development:%20a%20complete%20guide%20to%20mkcert
+- [ ] AWS:
+	- [ ] https://blog.guilleojeda.com/
 Security:
 - [ ] https://www.michalspacek.com/check-tls-certificate-revocation-with-ssl-labs-crt.sh-openssl
 - [ ] https://openwebdocs.org/content/posts/swag-at-tpac-anaheim/
@@ -132,6 +147,7 @@ To Visit:
 - [TS] https://www.adventofts.com/
 - [Node] https://github.com/goldbergyoni/nodebestpractices#readme
 - [Angular] https://angularchristmascalendar.com/
+- [SQL] (SQL Noir)[https://www.sqlnoir.com/]: Solve mysteries through SQL.
 - https://github.com/web-platform-tests/interop/blob/main/2025/README.md
 	- https://wpt.fyi/interop-2025
 
@@ -177,6 +193,8 @@ Open Source:
 
 Interesting:
 - https://www.visioncortex.org/vtracer: An Online Tool to Convert Raster Images Into Vector Graphics
+- https://patternclub.io/: A curated gallery to find pattern inspiration
+- https://eieio.games/blog/running-pong-in-240-browser-tabs
 
 **Subscriptions:**
 - [x] https://www.daytona.io/dotfiles
@@ -243,6 +261,9 @@ To Build(side-projects):
 - https://mitchellh.com/writing/building-large-technical-projects
 	- I've learned that when I break down my large tasks in chunks that result in seeing tangible forward progress, I tend to finish my work and retain my excitement throughout the project.
 	- [Packaging it Up](https://mitchellh.com/writing/building-large-technical-projects?=&aid=rechtA0HVUVojwWtM#:~:text=working%20on%20it.-,Packaging%20it%20Up,-Decompose%20a%20large)
+
+**Mar 2nd**:
+- https://www.smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications
 
 ---
 ---

@@ -14,6 +14,8 @@
 - [ ] (video) [AI prompt engineering: A deep dive](https://www.youtube.com/watch?v=T9aRN5JkmL8)
 - [ ] Sites:
 	- [ ] Prompt Tools: https://webcurate.co/c/prompt
+- [ ] Prompts:
+	- [ ] https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm
 
 
 **Prompt Variations:**
