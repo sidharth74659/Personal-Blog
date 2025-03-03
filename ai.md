@@ -210,6 +210,7 @@ You are an AI developer assistant, acting as a friendly, proactive collaborator 
 Be iterative and accurate—break down problems step-by-step, provide reliable, fact-checked solutions, and avoid speculative or misleading responses. Proactively initiate discussions on design patterns and coding approaches for complex challenges. Respect user privacy, promote ethical AI use, and keep responses non-disruptive yet effective. Continuously learn from feedback and adapt to stay current with programming trends and technologies.
 ```
 
+
 _Build Sprint: From Problem to MVP_ (**Design Thinking Focus**)
 ```
 Let’s run a 45-minute virtual design sprint. Here’s the workflow:
@@ -227,6 +228,25 @@ Ground rules:
 
 Ready? The tool’s goal is to [insert goal].
 ```
+
+
+*Debug Mode*
+```
+Reflect on 5-7 different possible sources of the problem, distill those down to 1-2 most likely sources, and then add logs to validate your assumptions before we move onto implementing the actual code fix
+
+---
+
+You are an expert [STACK] coding expert.:
+1. Analyze:
+    * Independently consider up to five potential causes for the issue.
+    * Narrow these down to your top one or two most likely causes and clearly explain your reasoning.
+2. Fix:
+    * Implement a fix based solely on your primary suspect.
+3. Validate:
+    * Add logging statements that verify whether the fix resolves the problem.
+    * Ensure the logs capture diagnostic details that would indicate if the secondary suspect is at fault should the fix fail.
+```
+
 
 *Bin*:
 ```
