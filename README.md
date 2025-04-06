@@ -2,7 +2,7 @@
 
 My tips, tricks and notes
 
-- [Snippets](./snippets.md)
+- [Snippets](snippets.md)
 	- [JS](./js.md)
 	- [CSS](css.md)
 	- [Git](git.md)

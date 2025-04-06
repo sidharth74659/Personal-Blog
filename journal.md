@@ -48,6 +48,7 @@ Authors:
 - https://www.seangoedecke.com/
 - https://eieio.games/blog/
 - (aws) https://blog.guilleojeda.com/
+- https://benhowdle.im/blog/
 
 Fonts:
 - https://fonts.google.com/specimen/Figtree
@@ -103,14 +104,23 @@ Authors:
 		- [ ] https://www.trevorlasn.com/blog/node-async-local-storage#:~:text=When%20to%20Use%20AsyncLocalStorage
 - [ ] Angular:
 	- [ ] https://www.tutscoder.com/post/creating%20self-signed%20certificates%20for%20local%20development:%20a%20complete%20guide%20to%20mkcert
+- [ ] React:
+	- [ ] https://blog.sentry.io/react-js-performance-guide
 - [ ] AWS:
 	- [ ] https://blog.guilleojeda.com/
-Security:
-- [ ] https://www.michalspacek.com/check-tls-certificate-revocation-with-ssl-labs-crt.sh-openssl
-- [ ] https://openwebdocs.org/content/posts/swag-at-tpac-anaheim/
-- [ ] https://bishopfox.com/blog/json-interoperability-vulnerabilities
-	- [ ] https://github.com/BishopFox/json-interop-vuln-labs/
-- [ ] https://portswigger.net/web-security/request-smuggling
+- [ ] AI:
+	- [ ] Training:
+		- [ ] https://engineering.zalando.com/posts/2025/02/llm-migration-ui-component-libraries.html
+- [ ] Security:
+	- [ ] https://www.michalspacek.com/check-tls-certificate-revocation-with-ssl-labs-crt.sh-openssl
+	- [ ] https://openwebdocs.org/content/posts/swag-at-tpac-anaheim/
+	- [ ] https://bishopfox.com/blog/json-interoperability-vulnerabilities
+		- [ ] https://github.com/BishopFox/json-interop-vuln-labs/
+	- [ ] https://portswigger.net/web-security/request-smuggling
+
+Bugs:
+- [ ] https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever
+
 
 API Documentation:
 - [ ] https://docs.github.com/en/rest/actions/artifacts?apiVersion=2022-11-28
@@ -238,7 +248,7 @@ To Build(side-projects):
 - Balancing Multiple Responsibilities Effectively and How to Say No: ⁠[https://substack.com/home/post/p-147346238](https://substack.com/home/post/p-147346238 "https://substack.com/home/post/p-147346238")
 
 **Sep 2nd:**
-- https://blogs.newardassociates.com/blog/2024/management-antipatterns.html
+- ( #corporate) https://blogs.newardassociates.com/blog/2024/management-antipatterns.html
 
 **Sep 3rd:**
 - https://blog.chay.dev/create-an-internal-cli/
@@ -263,7 +273,19 @@ To Build(side-projects):
 	- [Packaging it Up](https://mitchellh.com/writing/building-large-technical-projects?=&aid=rechtA0HVUVojwWtM#:~:text=working%20on%20it.-,Packaging%20it%20Up,-Decompose%20a%20large)
 
 **Mar 2nd**:
-- https://www.smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications
+- ( #security) https://www.smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications
+
+**Mar 7th**:
+- ( #corporate) https://www.seangoedecke.com/thoughts-about-engineers/?=&aid=recydizeLNFzMNCPu
+- ( #ai) https://dev.to/akshay_gupta/building-a-rag-powered-support-chatbot-in-24-hours-of-hackathon-5f7c
+- ( #ai) https://dri.es/i-gave-an-ai-agent-edit-access-to-my-website
+- ( #js, #website) https://www.debugbear.com/blog/prefetch-slower-website
+
+**Mar 8th**:
+- ( #font) https://gomakethings.com/self-hosting-fonts/
+- https://engineering.zalando.com/posts/2025/02/llm-migration-ui-component-libraries.html
+- 
+
 
 ---
 ---

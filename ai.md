@@ -7,6 +7,8 @@
 - [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook?tab=readme-ov-file): Code and guides designed to help build. 
 
 
+people interacting with LLM:
+- https://simonwillison.net/2025/Mar/25/gemini/
 
 **Prompt Engineering:**
 - [ ] https://www.uber.com/en-IN/blog/introducing-the-prompt-engineering-toolkit/?=&aid=recbxr9IRM7UNGV8S

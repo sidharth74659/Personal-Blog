@@ -2,8 +2,8 @@
 1. [js-snippets](./js)
 2. [css-snippets](css.md)
 3. [git-snippets](./git.md)
-4. [exporting-copilot-chat-sessions-in-vscode-as-md](./snippets/exporting-copilot-chat-sessions-in-vscode-as-md.md)
-5. [export-twitter-bookmarks](./snippets/export-twitter-bookmarks.md)
+4. [exporting-copilot-chat-sessions-in-vscode-as-md](exporting-copilot-chat-sessions-in-vscode-as-md.md)
+5. [export-twitter-bookmarks](export-twitter-bookmarks.md)
 
 
 ---

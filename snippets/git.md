@@ -41,6 +41,9 @@ git remote set-url origin https://<username>:<token>@bitbucket.org/mobilesupplyc
 # ex:
 git remote set-url origin git@bitbucket.org:mobilesupplychain24c/poc.git
 
+# double check, it will show new git url)
+git remote -v
+
    git checkout -b test
    git add .
    git commit -m "Initial commit on test branch"
