@@ -1,3 +1,14 @@
+
+_Note_: The tables calculate EMI as `(Principal × Interest Rate × Tenure) / (Tenure × 12)`, which assumes **simple interest**.
+~~- Simple interest ignores the reducing principal. Actual interest paid is lower than shown in all tables.~~
+
+- [ ] Disclose whether the interest is "flat" (simple) or "reducing balance" to avoid confusion.
+- [ ] Use the amortization formula or an EMI calculator.
+- [ ] Update all tables to reflect accurate EMIs and total interest.
+
+
+---
+
 Bank: one of 2 banks: Yes Bank, …?
 Branch: 
 
@@ -15,6 +26,25 @@ Contact: +91 9392011816
 
 
 ###### EMI Calculation
+
+**Single Source:** (ICICI: @SrikanthS Recommendation)
+- `11.15%` interest rate for `15L`(taking from single source):
+
+| Tenure (Years) | Original Amount (INR) | Total Interest (INR) | Total Repayment Amount (INR) | Monthly EMI (INR) | Calculation Details |
+|----------------|-----------------------|----------------------|------------------------------|-------------------|---------------------|
+| 2              | 15,00,000             | 3,34,500             | 18,34,500                    | 76,438            | 15L * 11.15% * 2    |
+| 3              | 15,00,000             | 5,01,750             | 20,01,750                    | 55,604            | 15L * 11.15% * 3    |
+| 4              | 15,00,000             | 6,69,000             | 21,69,000                    | 45,188            | 15L * 11.15% * 4    |
+| 5              | 15,00,000             | 8,36,250             | 23,36,250                    | 38,938            | 15L * 11.15% * 5    |
+
+- `11.15%` interest rate for `16L`(taking from single source):
+
+| Tenure (Years) | Original Amount (INR) | Total Interest (INR) | Total Repayment Amount (INR) | Monthly EMI (INR) | Calculation Details |
+|----------------|-----------------------|----------------------|------------------------------|-------------------|---------------------|
+| 2              | 16,00,000             | 3,56,800             | 19,56,800                    | 81,533            | 16L * 11.15% * 2    |
+| 3              | 16,00,000             | 5,35,200             | 21,35,200                    | 59,311            | 16L * 11.15% * 3    |
+| 4              | 16,00,000             | 7,13,600             | 23,13,600                    | 48,617            | 16L * 11.15% * 4    |
+| 5              | 16,00,000             | 8,92,000             | 24,92,000                    | 41,533            | 16L * 11.15% * 5    |
 
 **Single Source:**
 - `15%` interest rate for `15L`(taking from single source):
