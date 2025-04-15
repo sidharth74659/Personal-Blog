@@ -25,10 +25,23 @@ Branch:
 Contact: +91 9392011816
 
 
+**Part Payment**
+
+- Diminishing Rate of Interest:
+	- 10L credited to account
+	- 11%
+	- EMI: Principal Amount 
+
+- 1600000 * 11.05%: `176,800`
+- 1st Month: 
+	- EMI: (11.05/12)% * 1600000: 14,733.33
+	- Principal Interest: 1600000/36(months): 44,444.44
+	- Total: 
+
 ###### EMI Calculation
 
 **Single Source:** (ICICI: @SrikanthS Recommendation)
-- `11.15%` interest rate for `15L`(taking from single source):
+- `11.15%` interest rate for `15L`(taking from single source) for `2Y`:
 
 | Tenure (Years) | Original Amount (INR) | Total Interest (INR) | Total Repayment Amount (INR) | Monthly EMI (INR) | Calculation Details |
 |----------------|-----------------------|----------------------|------------------------------|-------------------|---------------------|
@@ -36,6 +49,15 @@ Contact: +91 9392011816
 | 3              | 15,00,000             | 5,01,750             | 20,01,750                    | 55,604            | 15L * 11.15% * 3    |
 | 4              | 15,00,000             | 6,69,000             | 21,69,000                    | 45,188            | 15L * 11.15% * 4    |
 | 5              | 15,00,000             | 8,36,250             | 23,36,250                    | 38,938            | 15L * 11.15% * 5    |
+
+- `11.15%` interest rate for `15L`(taking from single source) for `3Y`:
+
+|Tenure (Years)|Original Amount (INR)|Total Interest (INR)|Total Repayment (INR)|Monthly EMI (INR)|
+|---|---|---|---|---|
+|2|15,00,000|1,78,000|16,78,000|69,917|
+|3|15,00,000|2,71,740|17,71,740|49,215|
+|4|15,00,000|3,68,900|18,68,900|38,935|
+|5|15,00,000|4,69,400|19,69,400|32,823|
 
 - `11.15%` interest rate for `16L`(taking from single source):
 
