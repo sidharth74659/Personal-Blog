@@ -18,6 +18,9 @@
 - 
 - https://patatap.com/
 - http://weavesilk.com/
-- 
+
 - https://theuselessweb.com/
 - https://floor796.com/
+- Chinese version of instagram:https://www.xiaohongshu.com/explore
+	- https://www.xiaohongshu.com/user/profile/5fd61921000000000100ac7a
+
