@@ -28,6 +28,7 @@
 - https://www.figma.com/@uxercon
 - https://icon-sets.iconify.design/
 - https://svgl.app/
+- https://pureanim.netlify.app/
 
 #### Packages:
 - [**Balloons-js**](https://webtoolsweekly.us5.list-manage.com/track/click?u=ea228d7061e8bbfa8639666ad&id=62185b6def&e=77c4888ebe) — A simple JavaScript utility that adds colorful animated rising balloons to any web page using a simple function call.

@@ -18,6 +18,8 @@ people interacting with LLM:
 	- [ ] Prompt Tools: https://webcurate.co/c/prompt
 - [ ] Prompts:
 	- [ ] https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm
+	- [ ] Prompt Engineering: 
+	- https://drive.google.com/file/d/1876aoMFIKbgCVuoUtRHQYRs7Kcn6SMZD/view?ref=blog.codewithahsan.dev
 
 
 **Prompt Variations:**
