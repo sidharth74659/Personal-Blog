@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "40c0e1fa717fe237",
+        "id": "c6cc26e0417baa46",
         "type": "tabs",
         "children": [
           {
-            "id": "4121e875c4dd9d4f",
+            "id": "5c23c73d6264c65b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "snippets/snippets.md",
-                "staged": false
+                "file": "ui.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (snippets)"
+              "icon": "lucide-file",
+              "title": "ui"
             }
           }
         ]
@@ -53,7 +54,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -93,39 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ai.md",
+                "file": "tailwind.md",
                 "collapseAll": true,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ai"
-            }
-          },
-          {
-            "id": "3dce79001ca26ed8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ai.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of ai"
-            }
-          },
-          {
-            "id": "d8d196d26f6a7f6c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Backlinks for tailwind"
             }
           },
           {
@@ -134,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ai.md",
+                "file": "tailwind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ai"
+              "title": "Outgoing links from tailwind"
             }
           },
           {
@@ -154,9 +133,31 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "3dce79001ca26ed8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tailwind.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of tailwind"
+            }
+          },
+          {
+            "id": "d8d196d26f6a7f6c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,38 +174,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4121e875c4dd9d4f",
+  "active": "8f422f6de3e1a801",
   "lastOpenFiles": [
-    "corporate-terms.md",
-    "snippets/git.md",
-    "project-overview.md",
-    "README.md",
-    "rules.md",
-    "vscode.md",
-    "ui.md",
-    "assets/ui/Pasted image 20241221180721.png",
-    "assets/ui/Pasted image 20250329143146.png",
+    "assets/ui/side-sections (webflow)/original-60b2f218b45469170b26dd7d46e54e82.webp",
+    "assets/ui/side-sections (webflow)/original-d28f88c97f71faaeadbf28eb3dff9fc8.webp",
+    "assets/ui/side-sections (webflow)/original-a3723d09574f5d25bdfc8d0f51b4b632.webp",
+    "assets/ui/segments/original-90e0ee5a3e39699f66560ad30447acc2.webp",
+    "assets/ui/filter-or-sort/original-90e0ee5a3e39699f66560ad30447acc2.webp",
+    "assets/ui/filter-or-sort/original-d7318143f4d7174693de302f1bd7ed78.webp",
+    "assets/ui/filter-or-sort",
+    "assets/ui/side-sections (webflow)",
+    "assets/ui/segments/original-1543bf689e2cd03b64b19eb2d1bad02f 1.webp",
+    "assets/ui/segments/i5a8pzAGw173yRersggL16mjQo.avif",
+    "assets/ui/segments/18cM75s89dmk82R0tJadoePnQw.avif",
+    "assets/ui/segments/original-6c999ece3af717df6eade83df1d22083.webp",
+    "assets/ui/segments/original-3465d8fd2b1c9a8d1d02cbc5c792b95d.webp",
     "tools.md",
+    "snippets/css.md",
+    "assets/ui/segments",
+    "ai--dump.md",
+    "untitled/Untitled Loan.md",
+    "system-design.md",
+    "digital-forms-pr-review.md",
+    "checklist-for-inquiring-personal-loan.md",
+    "untitled",
+    "snippets/tailwind-setup.md",
     "snippets/snippets.md",
+    "project-overview.md",
+    "full-stack app.md",
     "complete-deeplearning-courses.md",
     "binge.md",
-    "ai--dump.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 1.md",
-    "untitled/Untitled Loan.md",
-    "Untitled form-builder.md",
-    "Untitled Rissaree UI.md",
-    "untitled",
-    "Untitled.md",
-    "Pasted image 20250321001750.png",
-    "snippets/export-twitter-bookmarks.md",
+    "vscode.md",
+    "ui.md",
+    "tailwind-setup.md",
+    "rules.md",
+    "README.md",
     "journal.md",
+    "corporate-terms.md",
     "ai.md",
-    "full-stack app.md",
+    "snippets/export-twitter-bookmarks.md",
     "snippets/js.md",
-    "snippets/tailwind-setup.md",
-    "snippets/css.md",
+    "snippets/git.md",
+    "snippets/exporting-copilot-chat-sessions-in-vscode-as-md.md",
     "assets/ui",
     "assets",
     "snippets"
