@@ -11,14 +11,12 @@
             "id": "5c23c73d6264c65b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ui.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/ui/Pasted image 20250329143146.png"
               },
-              "icon": "lucide-file",
-              "title": "ui"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250329143146"
             }
           }
         ]
@@ -176,19 +174,21 @@
   },
   "active": "8f422f6de3e1a801",
   "lastOpenFiles": [
-    "assets/ui/side-sections (webflow)/original-60b2f218b45469170b26dd7d46e54e82.webp",
-    "assets/ui/side-sections (webflow)/original-d28f88c97f71faaeadbf28eb3dff9fc8.webp",
-    "assets/ui/side-sections (webflow)/original-a3723d09574f5d25bdfc8d0f51b4b632.webp",
-    "assets/ui/segments/original-90e0ee5a3e39699f66560ad30447acc2.webp",
-    "assets/ui/filter-or-sort/original-90e0ee5a3e39699f66560ad30447acc2.webp",
-    "assets/ui/filter-or-sort/original-d7318143f4d7174693de302f1bd7ed78.webp",
+    "assets/ui/uncategorised/original-52f8d1a54ceee829d90f172b4b93488d.png",
+    "assets/ui/uncategorised/original-7b9526012bf195824554d819c74f1247.png",
+    "assets/ui/uncategorised/original-723e698ff4cf1232996842a3db150f73.png",
+    "assets/ui/uncategorised/original-86b4c56023d3ca5036ebee1d5115fa59.webp",
+    "assets/ui/uncategorised/original-86b4c56023d3ca5036ebee1d5115fa59.png",
+    "assets/ui/uncategorised/original-64d63af8d3c768acae6eff2fde455079.png",
+    "assets/ui/uncategorised/original-c760d51a2d7af0fd60abcfd1a4f32a6b.png",
+    "assets/ui/uncategorised/original-793bc4253bdd5762e0c7d03d5aff36f5.png",
+    "assets/ui/uncategorised/original-41017c74ca35782bab947510dec7ec67.png",
+    "assets/ui/uncategorised/original-89e5856cebcf570127b3bcc294317eb7.png",
+    "assets/ui/uncategorised/original-1fd1bd651a3a60d2f1c717d4e00dd5e9.png",
+    "assets/ui/uncategorised",
+    "ui.md",
     "assets/ui/filter-or-sort",
     "assets/ui/side-sections (webflow)",
-    "assets/ui/segments/original-1543bf689e2cd03b64b19eb2d1bad02f 1.webp",
-    "assets/ui/segments/i5a8pzAGw173yRersggL16mjQo.avif",
-    "assets/ui/segments/18cM75s89dmk82R0tJadoePnQw.avif",
-    "assets/ui/segments/original-6c999ece3af717df6eade83df1d22083.webp",
-    "assets/ui/segments/original-3465d8fd2b1c9a8d1d02cbc5c792b95d.webp",
     "tools.md",
     "snippets/css.md",
     "assets/ui/segments",
@@ -205,7 +205,6 @@
     "complete-deeplearning-courses.md",
     "binge.md",
     "vscode.md",
-    "ui.md",
     "tailwind-setup.md",
     "rules.md",
     "README.md",
