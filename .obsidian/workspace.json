@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "40c0e1fa717fe237",
+        "id": "6efa0a8cd531401f",
         "type": "tabs",
         "children": [
           {
-            "id": "4121e875c4dd9d4f",
+            "id": "3818feb5da68de48",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "snippets/snippets.md",
-                "staged": false
+                "file": "system-design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (snippets)"
+              "icon": "lucide-file",
+              "title": "system-design"
             }
           }
         ]
@@ -173,38 +174,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4121e875c4dd9d4f",
+  "active": "8f422f6de3e1a801",
   "lastOpenFiles": [
+    "system-design.md",
+    "untitled/Untitled Shaayar.md",
+    "untitled/Untitled Loan.md",
+    "digital-forms-pr-review.md",
+    "Pasted image 20250509221032.png",
+    "Pasted image 20250509221018.png",
+    "binge.md",
+    "checklist-for-inquiring-personal-loan.md",
+    "Untitled 1.md",
+    "ai.md",
+    "tools.md",
+    "project-overview.md",
+    "snippets/snippets.md",
+    "snippets/exporting-copilot-chat-sessions-in-vscode-as-md.md",
     "corporate-terms.md",
     "snippets/git.md",
-    "project-overview.md",
     "README.md",
     "rules.md",
     "vscode.md",
     "ui.md",
     "assets/ui/Pasted image 20241221180721.png",
     "assets/ui/Pasted image 20250329143146.png",
-    "tools.md",
-    "snippets/snippets.md",
     "complete-deeplearning-courses.md",
-    "binge.md",
     "ai--dump.md",
     "Untitled 4.md",
     "Untitled 3.md",
-    "Untitled 1.md",
-    "untitled/Untitled Loan.md",
     "Untitled form-builder.md",
     "Untitled Rissaree UI.md",
     "untitled",
-    "Untitled.md",
     "Pasted image 20250321001750.png",
     "snippets/export-twitter-bookmarks.md",
     "journal.md",
-    "ai.md",
-    "full-stack app.md",
-    "snippets/js.md",
-    "snippets/tailwind-setup.md",
-    "snippets/css.md",
     "assets/ui",
     "assets",
     "snippets"
