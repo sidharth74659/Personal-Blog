@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system-design.md",
+                "file": "journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "system-design"
+              "title": "journal"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "8f422f6de3e1a801",
   "lastOpenFiles": [
+    "assets/ui/Pasted image 20250329143146.png",
     "system-design.md",
     "untitled/Untitled Shaayar.md",
     "untitled/Untitled Loan.md",
@@ -197,7 +198,6 @@
     "vscode.md",
     "ui.md",
     "assets/ui/Pasted image 20241221180721.png",
-    "assets/ui/Pasted image 20250329143146.png",
     "complete-deeplearning-courses.md",
     "ai--dump.md",
     "Untitled 4.md",
@@ -207,7 +207,6 @@
     "untitled",
     "Pasted image 20250321001750.png",
     "snippets/export-twitter-bookmarks.md",
-    "journal.md",
     "assets/ui",
     "assets",
     "snippets"
