@@ -9,4 +9,11 @@ Background patterns:
 
 ---
 
+
+Design Systems
+- https://designsystems.surf/blueprints/segmented-control
+
+----
+
+
 ![[Pasted image 20250329143146.png]]

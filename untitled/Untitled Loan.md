@@ -27,7 +27,7 @@ Contact: +91 9392011816
 
 **Part Payment**
 
-- Diminishing Rate of Interest:
+- **Diminishing Rate of Interest**: - EMI decreases as tenure increases (but total interest paid rises).
 	- 10L credited to account
 	- 11%
 	- EMI: Principal Amount 
@@ -52,12 +52,12 @@ Contact: +91 9392011816
 
 - `11.15%` interest rate for `15L`(taking from single source) for `3Y`:
 
-|Tenure (Years)|Original Amount (INR)|Total Interest (INR)|Total Repayment (INR)|Monthly EMI (INR)|
-|---|---|---|---|---|
-|2|15,00,000|1,78,000|16,78,000|69,917|
-|3|15,00,000|2,71,740|17,71,740|49,215|
-|4|15,00,000|3,68,900|18,68,900|38,935|
-|5|15,00,000|4,69,400|19,69,400|32,823|
+| Tenure (Years) | Original Amount (INR) | Total Interest (INR) | Total Repayment (INR) | Monthly EMI (INR) |
+| -------------- | --------------------- | -------------------- | --------------------- | ----------------- |
+| 2              | 15,00,000             | 1,78,000             | 16,78,000             | 69,917            |
+| 3              | 15,00,000             | 2,71,740             | 17,71,740             | 49,215            |
+| 4              | 15,00,000             | 3,68,900             | 18,68,900             | 38,935            |
+| 5              | 15,00,000             | 4,69,400             | 19,69,400             | 32,823            |
 
 - `11.15%` interest rate for `16L`(taking from single source):
 
@@ -136,3 +136,52 @@ Contact: +91 9392011816
 | 3              | 15,00,000             | 4,50,000             | 19,50,000                    | 54,167            | 15L * 10% * 3       |
 | 4              | 15,00,000             | 6,00,000             | 21,00,000                    | 43,750            | 15L * 10% * 4       |
 | 5              | 15,00,000             | 7,50,000             | 22,50,000                    | 37,500            | 15L * 10% * 5       |
+
+
+---
+---
+---
+
+### **Loan EMI Calculation for ₹15L @ 11.15% for 3 Years**
+
+|Tenure (Years)|Original Amount (INR)|Total Interest (INR)|Total Repayment (INR)|Monthly EMI (INR)|
+|---|---|---|---|---|
+|**Formula**|`P`|`(EMI × n) - P`|`EMI × n`|`P × [r(1+r)^n] / [(1+r)^n - 1]`|
+|**Values**|`15,00,000`|`(49,215 × 36) - 15,00,000 = 2,71,740`|`49,215 × 36 = 17,71,740`|`15,00,000 × [0.0092917 × (1.0092917)^36] / [(1.0092917)^36 - 1]`|
+|**3**|15,00,000|2,71,740|17,71,740|**49,215**|
+
+---
+
+### **Key Components Explained:**
+
+1. **Monthly Interest Rate (`r`)**
+    r=11.15%12=0.0092917r=1211.15%​=0.0092917
+2. **Number of Months (`n`)**
+    n=3×12=36n=3×12=36
+3. **EMI Calculation**
+	EMI=15,00,000×0.0092917×(1.0092917)36(1.0092917)36−1=49,215EMI=15,00,000×(1.0092917)36−10.0092917×(1.0092917)36​=49,215
+4. **Total Interest** 
+    Interest=(49,215×36)−15,00,000=2,71,740Interest=(49,215×36)−15,00,000=2,71,740
+
+---
+
+### **Full Corrected Table (All Tenures)**
+
+- P: Principal amount (the original loan amount).
+- r: Monthly interest rate (annual interest rate divided by 12).
+- n: Total number of monthly payments (loan tenure in months).
+
+- **`P`** is constant (₹15L).
+- **`r`** remains the same (`11.15% / 12 = 0.0092917`).
+- **`n`** changes with tenure (`Years × 12`).
+- EMI decreases as tenure increases (but total interest paid rises).
+
+| Tenure (Years) | Original Amount (INR) | Total Interest (INR) | Total Repayment (INR) | Monthly EMI (INR)                |
+| -------------- | --------------------- | -------------------- | --------------------- | -------------------------------- |
+| **Formula**    | `P`                   | `(EMI * n) - P`      | `EMI * n`             | `P * [r(1+r)^n] / [(1+r)^n - 1]` |
+| **2**          | 15,00,000             | 1,78,000             | 16,78,000             | 69,917                           |
+| **3**          | 15,00,000             | 2,71,740             | 17,71,740             | 49,215                           |
+| **4**          | 15,00,000             | 3,68,900             | 18,68,900             | 38,935                           |
+| **5**          | 15,00,000             | 4,69,400             | 19,69,400             | 32,823                           |
+
+
