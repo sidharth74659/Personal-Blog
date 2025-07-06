@@ -3,8 +3,9 @@
 - In the interest of time, *...let's-go-with-what's-primary-here*
 - I'll give it another shot and see if I can do better.
 - I appreciate the opportunity.
-- I'm so glad to hear that (*when someone compliments or share thir views on anything interesting for them*)
+- I'm so glad to hear that (*when someone compliments or share their views on anything interesting for them*)
 - Just so you know, I don't take this for granted. It means a lot.
+- I have so many questions bombarding into, Please be patient with me.
 
 
 ---
