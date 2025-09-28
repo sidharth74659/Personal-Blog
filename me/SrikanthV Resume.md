@@ -2,6 +2,7 @@
 ## **Srikanth Babu**
 
 📍 Hyderabad, India | 📞 +91 9014244816 | ✉️ [srikanth.dcs52@gmail.com](mailto:srikanth.dcs52@gmail.com) 
+<br />
 🔗 [LinkedIn](https://linkedin.com/in/srikanth-vudharapu) | [Github Profile](https://github.com/sidharth74659)
 
 ---
